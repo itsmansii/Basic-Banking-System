@@ -43,14 +43,3 @@ Transaction Table Created Successfully.
 ```
 http://localhost/Sparks-Foundation/
 ```
-OR
-```
-http://localhost/Sparks-Foundation/index.php
-```
-- You will land to Homepage of Money Bank Website.
-- Click On `View all Customer` from Navigation OR `Get Started` button for viewing detail of all Customers.
-- You will see Customer details in table with deatils like(Name, Email, Current balance, etc.).
-- Click on `Send` Button Corresponding Any row of table.
-- Now We are on Money Transfering Page. Now Enter a Valid Name in `To` textbox and also Enter Amount, Click on checkbox and finally Click on `Send` Button To Start Transfer.
-- Make sure the Amount you enter is not grator then current balance of the Person Selected, else it will pop Message.
-- If the Transaction is successful Message will displayed and Changes made by above Transaction will be updated to customer table. 
